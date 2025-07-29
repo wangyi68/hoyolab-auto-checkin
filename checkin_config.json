@@ -1,0 +1,47 @@
+{
+  "run_mode": "all",
+  "games": {
+    "hsr": {"enabled": true},
+    "gi": {"enabled": true},
+    "zzz": {"enabled": false},
+    "hi3": {"enabled": false}
+  },
+  "settings": {
+    "run_on_start": true,
+    "show_detailed_rewards": true,
+    "delay_between_games": 1.5,
+    "max_retries": 5,
+    "colorful_output": true,
+    "show_game_emoji": true,
+    "enhanced_logging": false,
+    "clear_console": true,
+    "language": "en-us",
+    "save_logs_to_file": true,
+    "console_width": 50
+  },
+  "loop": {
+    "enabled": false,
+    "mode": "daily",
+    "interval_hours": 24,
+    "daily_time": "09:00",
+    "timezone": "UTC",
+    "max_runs": 0,
+    "retry_failed": true,
+    "retry_delay_minutes": 10
+  },
+  "notifications": {
+    "enabled": true,
+    "success_only": false,
+    "webhook_url": "",
+    "discord_webhook": "",
+    "telegram_bot_token": "",
+    "telegram_chat_id": ""
+  },
+  "advanced": {
+    "request_timeout": 15,
+    "rate_limit_delay": 1.0,
+    "user_agent_rotation": true,
+    "proxy_support": false,
+    "proxy_url": ""
+  }
+}
