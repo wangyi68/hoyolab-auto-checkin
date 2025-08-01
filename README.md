@@ -1,4 +1,4 @@
-# 🌟 HoYoLAB Auto Check-in
+# 🌟 HoYoLAB Auto Check-in Function Outdata
 
 A robust, user-friendly Python script to automate daily check-ins for HoYoverse games, including **Honkai: Star Rail**, **Genshin Impact**, **Zenless Zone Zero**, and **Honkai Impact 3rd**. Enjoy a seamless experience with a polished console interface, multilingual support, flexible scheduling, and advanced configuration for reliability and customization.
 
